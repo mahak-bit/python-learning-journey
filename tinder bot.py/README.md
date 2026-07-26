@@ -49,3 +49,12 @@ The project focuses on practical browser automation concepts and demonstrates ho
 ```text
 Day 50/
 └── main.py
+
+
+
+
+⚠️ Disclaimer
+
+This project was created for educational purposes to demonstrate browser automation and Selenium WebDriver concepts.
+
+Automated interactions with third-party platforms may be subject to their Terms of Service and usage policies. Always use automation responsibly and respect platform rules, rate limits, and user privacy.
